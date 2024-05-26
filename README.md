@@ -1,7 +1,9 @@
+<!--
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jandersong4/c25f1029caa73e6420d1a9d02f0d3218/raw/e18a05c5b503fd3e24b7669abe2246e7409fd6b9/githubcard.svg"/>
+-->
+
 <h1 align="left" style="display: inline-block; width: 50%;">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Janderson Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jandersong4&color=yellow" alt="Profile views" /> </p>
-
 
 - 🔥 Web Developer & Instructor focused on helping people start programming 
 
